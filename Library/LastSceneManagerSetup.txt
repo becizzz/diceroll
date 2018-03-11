@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/DiceRoll/DiceRoll.unity
+- path: Assets/HugRoll/HugRoll.unity
   isLoaded: 1
   isActive: 1

@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiceRoll", "Assembly-CSharp.csproj", "{C3A6E5BD-D7B8-3935-A13A-4EACFD235066}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HugRoll", "Assembly-CSharp.csproj", "{328865B0-7543-3F42-B0FD-35310EB9F055}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +9,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C3A6E5BD-D7B8-3935-A13A-4EACFD235066}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C3A6E5BD-D7B8-3935-A13A-4EACFD235066}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C3A6E5BD-D7B8-3935-A13A-4EACFD235066}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C3A6E5BD-D7B8-3935-A13A-4EACFD235066}.Release|Any CPU.Build.0 = Release|Any CPU
+		{328865B0-7543-3F42-B0FD-35310EB9F055}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{328865B0-7543-3F42-B0FD-35310EB9F055}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{328865B0-7543-3F42-B0FD-35310EB9F055}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{328865B0-7543-3F42-B0FD-35310EB9F055}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
